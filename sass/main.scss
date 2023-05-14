@@ -1,0 +1,24 @@
+@import './utils/variables';
+@import './utils/visually-hidden';
+@import './utils/mixins';
+
+@import './base/common';
+@import './base/container';
+
+@import './components/logo';
+@import './components/sec-title';
+@import './components/social-list';
+@import './components/backdrop';
+
+@import './layout/header';
+@import './layout/hero';
+@import './layout/about';
+@import './layout/work';
+@import './layout/team';
+@import './layout/clients';
+@import './layout/port';
+@import './layout/footer';
+
+
+
+
